@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;	
+}
+
+.body {
+	padding-top: 73.49px;
+	background-color: rgb(245, 245, 245);
+}
+
+.navbar-form {
+	padding-left: 3%;
+	white-space: nowrap;	
+}
+
+.gridStyle {
+	height: 300px;
+	width: auto;
+	border: 1px solid rgb(212, 212, 212);
+}
+
+.input-group {
+	padding-left: 2%;
+}
+
+.form-control {
+	max-width: 175px;
+}
+
+.cellTextColor {
+	color: green;
+}
+
+
